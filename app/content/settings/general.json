@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Hi, I'm the blog of ECS3356 Applied Computational Finance at Middlesex Unviersity. Here you can see our latest projects",
+  "welcomeText": "Hi, I'm the blog of ECS3356 Applied Computational Finance group at Middlesex University. ",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
